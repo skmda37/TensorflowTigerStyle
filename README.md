@@ -1,4 +1,4 @@
-# My Grilfriend's Tiger (Shih Tzu) painted as Franz Marc's TIGER (real tiger)
+# My Grilfriend's Tiger painted as Franz Marc's TIGER 
 Here we are going to implement the ideas from the 2015 paper
 ["A Neural Algorithm of Artistic Style"](https://arxiv.org/abs/1508.06576) by *Leon A. Gatys,
 Alexander S. Ecker, Matthias Bethge*,
