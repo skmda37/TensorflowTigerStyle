@@ -9,4 +9,4 @@ Below is a picture of "Tiger" (Shih Tzu).
 and here is the painting of a TIGER by Franz Marc
 ![TIGER by Franz MArc](https://drive.google.com/uc?id=1S6cVG_neSru21cEGY7UoN1XQy-trfaIH)
 <br/>
-The jupyter notebook contains everything. I used tensorflow to perform the neural style transfer. I recommend running it on a GPU for instnace on google colab for free. Have fun painting your own photograph in the style of your choice! 
+The jupyter notebook contains everything. I used tensorflow to perform the neural style transfer. I recommend running it on a GPU (for instnace on google colab for free). 
